@@ -48,6 +48,7 @@ Thumbs.db
 
 # Custom #
 ######################
+*.jpg
 *.png
 *.gif
 *.webp
