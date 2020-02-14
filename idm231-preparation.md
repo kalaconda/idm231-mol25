@@ -13,14 +13,25 @@
 
 <h2> Icons: </h2>
 ![capricorn](https://user-images.githubusercontent.com/55995794/74545576-1dbd2a80-4f17-11ea-864d-80250c9f0ecf.png)
+
 ![gemini](https://user-images.githubusercontent.com/55995794/74545577-1dbd2a80-4f17-11ea-816f-09c0622b9bde.png)
+
 ![leo](https://user-images.githubusercontent.com/55995794/74545578-1dbd2a80-4f17-11ea-842e-2a497880ec57.png)
+
 ![libra](https://user-images.githubusercontent.com/55995794/74545580-1dbd2a80-4f17-11ea-8057-4415258c4b34.png)
+
 ![pisces](https://user-images.githubusercontent.com/55995794/74545581-1dbd2a80-4f17-11ea-9c2e-afdbace8c1e3.png)
+
 ![sagittarius](https://user-images.githubusercontent.com/55995794/74545582-1dbd2a80-4f17-11ea-9a21-e8df5204a184.png)
+
 ![scorpio](https://user-images.githubusercontent.com/55995794/74545584-1e55c100-4f17-11ea-83fb-949fdf079725.png)
+
 ![taurus](https://user-images.githubusercontent.com/55995794/74545585-1e55c100-4f17-11ea-94c8-73560350e5a9.png)
+
 ![virgo](https://user-images.githubusercontent.com/55995794/74545587-1e55c100-4f17-11ea-8846-19a61175f82e.png)
+
 ![aquarius](https://user-images.githubusercontent.com/55995794/74545588-1e55c100-4f17-11ea-913a-cc25a4923f56.png)
+
 ![aries](https://user-images.githubusercontent.com/55995794/74545590-1e55c100-4f17-11ea-826f-a99f07ce8390.png)
+
 ![cancer](https://user-images.githubusercontent.com/55995794/74545592-1e55c100-4f17-11ea-95f6-1df09a13e579.png)
