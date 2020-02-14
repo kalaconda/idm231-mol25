@@ -2,7 +2,7 @@
 <h2> Zodiac Website Project </h2>
 
 <h2> Theme: </h2>
-<p><h3> The theme I chose for this assignment is 'Glasses'. I chose something as simple as glasses because there are many different eyewear designs and I thought it would be fun to incorporate different eyewear designs for each zodiac sign. I plan on doing research on common traits from each zodiac sign to help me assign my icons to each of the zodiac signs.
+<h3> The theme I chose for this assignment is 'Glasses'. I chose something as simple as glasses because there are many different eyewear designs and I thought it would be fun to incorporate different eyewear designs for each zodiac sign. I plan on doing research on common traits from each zodiac sign to help me assign my icons to each of the zodiac signs.</h3>
 
 <h2> Flowchart: </h2>
 
