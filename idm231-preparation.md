@@ -8,7 +8,7 @@
 <h2> Flowchart: </h2>
 ![flowchart](https://user-images.githubusercontent.com/55995794/72245734-34dac680-35bf-11ea-9213-ca0261e4a7ca.jpg)
 <h2> Wireframes: </h2>
-![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/73762342-13907480-473e-11ea-81bf-1989f91df428.png)
+![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/73762342-13907480-473e-11ea-81bf-1989f91df428.jpg)
 <h2> Style tile: </h2>
 ![styletile](https://user-images.githubusercontent.com/55995794/72245786-53d95880-35bf-11ea-8f64-9c5086d43a36.png)
 <h2> Icons: </h2>
