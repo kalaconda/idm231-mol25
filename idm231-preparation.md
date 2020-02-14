@@ -1,15 +1,20 @@
 <h1> IDM231 </h1>
 <h2> Zodiac Website Project </h2>
 
-<h2> Objective: </h2>
 <h2> Theme: </h2>
 <p><h3> The theme I chose for this assignment is 'Glasses'. I chose something as simple as glasses because there are many different eyewear designs and I thought it would be fun to incorporate different eyewear designs for each zodiac sign. I plan on doing research on common traits from each zodiac sign to help me assign my icons to each of the zodiac signs.
 
 <h2> Flowchart: </h2>
 
+![flowchart](https://user-images.githubusercontent.com/55995794/74546270-54e00b80-4f18-11ea-8bd6-9cf35e34ff9b.jpg)
+
 <h2> Wireframes: </h2>
 
+![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/74546275-57426580-4f18-11ea-93d6-03e9383d2c39.JPG)
+
 <h2> Style tile: </h2>
+
+![idm231styletile](https://user-images.githubusercontent.com/55995794/74546290-5b6e8300-4f18-11ea-8bce-3b67afaa1871.png)
 
 <h2> Icons: </h2>
 
