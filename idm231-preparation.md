@@ -12,6 +12,8 @@
 
 ![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/74546275-57426580-4f18-11ea-93d6-03e9383d2c39.JPG)
 
+![zodiac-wireframes2](https://user-images.githubusercontent.com/55995794/74547064-886f6580-4f19-11ea-925b-03a507b1a1e5.JPG)
+
 <h2> Style tile: </h2>
 
 ![idm231styletile](https://user-images.githubusercontent.com/55995794/74546290-5b6e8300-4f18-11ea-8bce-3b67afaa1871.png)
