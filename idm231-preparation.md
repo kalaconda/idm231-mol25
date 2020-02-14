@@ -30,6 +30,7 @@
 
 <h2> Pisces </h2>
 
+![pisces](https://user-images.githubusercontent.com/55995794/74548303-945c2700-4f1b-11ea-9c0f-12b63e2c48b9.png)
 
 <h2> Aries </h2>
 
@@ -57,6 +58,7 @@
 
 <h2> Libra </h2>
 
+![libra](https://user-images.githubusercontent.com/55995794/74548304-945c2700-4f1b-11ea-819a-4816da32c836.png)
 
 <h2> Scorpio </h2>
 
