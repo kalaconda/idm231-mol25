@@ -6,9 +6,9 @@
 <p><h3> The theme I chose for this assignment is 'Glasses'. I chose something as simple as glasses because there are many different eyewear designs and I thought it would be fun to incorporate different eyewear designs for each zodiac sign. I plan on doing research on common traits from each zodiac sign to help me assign my icons to each of the zodiac signs.
 
 <h2> Flowchart: </h2>
-![flowchart](https://user-images.githubusercontent.com/55995794/72245734-34dac680-35bf-11ea-9213-ca0261e4a7ca.jpg)
+![flowchart](https://user-images.githubusercontent.com/55995794/72245734-34dac680-35bf-11ea-9213-ca0261e4a7ca.png)
 <h2> Wireframes: </h2>
-![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/73762342-13907480-473e-11ea-81bf-1989f91df428.JPG)
+![zodiac-wireframes](https://user-images.githubusercontent.com/55995794/73762342-13907480-473e-11ea-81bf-1989f91df428.png)
 <h2> Style tile: </h2>
 ![styletile](https://user-images.githubusercontent.com/55995794/72245786-53d95880-35bf-11ea-8f64-9c5086d43a36.png)
 <h2> Icons: </h2>
