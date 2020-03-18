@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="zodiacstyles.css">
+    <script type="text/javascript" src="zodiacjava.js"></script>
+  </head>
+    <body>
+      <!-- blue header -->
+      <div class="containerfortitle">
+      <!-- "ZODIAC" -->
+      <div class="titletxt">ZODIAC</div>
+      <!-- "STYLE EDITION" -->
+      <div class="styleedition">STYLE EDITION</div>
+      </div>
+      <!-- audio player (hidden) -->
+      <div id="myaudiodiv" style="visibility: hidden;">
+        <audio id="playMusic" controls preload=”auto”>
+          <source src="" type="audio/mpeg">
+        </audio>
+      </div>
+        <!-- birthday input -->
+        <center>
+          <div class= "inputbox">
+            <h2> Enter Your Birthday</h2>
+  <hr></hr>
+  <br></br>
+              <p>
+                <!-- txtDate (mm/dd/yyyy), btnValidate "Enter" -->
+                <input style="font-size: 20px"  type="date" id="txtDate"/>
+                <input type="button" id="btnValidate" value="ENTER" onclick="return ValidateDOB(txtDate.value)" />
+              </p>
+          </div>
+        </center>
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div id="myModelContent" class="modal-content">
+        <!-- close button -->
+        <span class="close">&times;</span>
+        <div>
+          <table style="text-align:center; margin-left:50px;" width="800px"> 
+            <tr>
+              <td>
+                <img src="#" id="ZodiacImage" name="ZodiacImage" width ="300" height="300">
+              </td>  
+            </tr>  
+            <tr>
+              <td>
+                <label id="HoroscopeText"></label>
+              </td>
+            </tr>
+            <tr>
+              <td height=300px colspan="2" class="columndesc">
+                <label id="HoroscopeDesc"></label>
+              </td>
+            </tr>
+        </div>
+        </div>
+        </div>
+  <br></br>
+    </body>
+</html>
